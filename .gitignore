@@ -1,0 +1,10 @@
+# Ignorer les fichiers sensibles
+backups/
+logs/
+*.iso
+*.img
+*.vmdk
+
+# Ignorer les fichiers de sauvegarde
+*.bak
+*.tmp
